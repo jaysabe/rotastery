@@ -1,2 +1,2 @@
 # rotastery
-revolving coffee purchasing site
+revolving coffee purchasing site -- WIP
