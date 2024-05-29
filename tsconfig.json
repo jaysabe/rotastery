@@ -12,14 +12,14 @@
     "declaration": true,
     "sourceMap": false,
     "outDir": "./dist",
-    "rootDir": "./src",
+    "rootDir": "packages/frontend/src",
     "baseUrl": ".",
     "jsx": "react-jsx",
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "checkJs": false
   },
-  "include": ["src/"],
+  "include": ["packages/frontend/src"],
   "exclude": [
     "**/__tests__",
     "**/__fixtures__",
