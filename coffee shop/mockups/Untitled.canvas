@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d6f2145a533e6946","type":"group","x":178,"y":-353,"width":290,"height":257,"label":"Store"},
+		{"id":"d4ba6b6b57edc594","type":"group","x":-240,"y":-225,"width":290,"height":248,"label":"Main"},
+		{"id":"c11c9da669b25bbe","type":"group","x":32,"y":123,"width":291,"height":237,"label":"Quiz"},
+		{"id":"df7f61bcc517c416","type":"text","text":"Quiz Card","x":52,"y":143,"width":250,"height":60},
+		{"id":"856c4e0b0aaedbb1","type":"text","text":"Features:\n- Simple quiz to get user preference for roast, taste, region --> coffee choice\n- redirect to storefront ","x":53,"y":203,"width":250,"height":137},
+		{"id":"a5dcf31fc00065df","type":"text","text":"main page","x":-220,"y":-205,"width":250,"height":60},
+		{"id":"63b63e23201ee99a","type":"text","text":"Features:\n- navbar\n- storefront card link\n- Quiz card link","x":-220,"y":-145,"width":250,"height":148},
+		{"id":"842a7cfc67c9fe35","type":"text","text":"Features:\n- filters\n- display number of items can inc/decrease","x":198,"y":-268,"width":250,"height":155},
+		{"id":"37622f98cf7c3d5d","type":"text","text":"Storefront","x":198,"y":-330,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"610cf4617d403292","fromNode":"d4ba6b6b57edc594","fromSide":"right","toNode":"d6f2145a533e6946","toSide":"left"},
+		{"id":"429be231b2984efa","fromNode":"d4ba6b6b57edc594","fromSide":"right","toNode":"c11c9da669b25bbe","toSide":"top"}
+	]
+}

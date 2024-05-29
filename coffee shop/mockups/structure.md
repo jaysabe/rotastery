@@ -1,0 +1,9 @@
+- Landing Page
+- Navigation
+- navbar
+- coffee quiz
+- storefront
+- google auth
+	- to save carts
+	- payment information
+- 
